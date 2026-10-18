@@ -1,0 +1,6 @@
+data/raw/
+data/private/
+__pycache__/
+*.pyc
+*.sqlite
+.DS_Store
